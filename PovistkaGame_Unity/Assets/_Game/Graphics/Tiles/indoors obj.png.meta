@@ -1,0 +1,758 @@
+fileFormatVersion: 2
+guid: b774bff7f5ea44eeab3fbe00c470d42f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: indoors_39
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 208
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c04da61171bc49beb0c8b7964750cdd
+      internalID: -1192224715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_109
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 96
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51831c35b07743c4b7123d74a3a2faf
+      internalID: -693595997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_110
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c951b49a588c4ba19f20c0a8149630d
+      internalID: -2125119225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053a3b6cd002140d2bd2b91a7775aa7a
+      internalID: 1419259192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_147
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055cad08a788e4b1f84c50fc04fbe0b2
+      internalID: 22623177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_148
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe4f912b242b4938a3b798161a21369
+      internalID: -1344165217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_149
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71db1dcb87ad34a72bea013634461844
+      internalID: -846821118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_150
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf4c144ce7cf4278a686d71b177fec3
+      internalID: 1469675417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_151
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cda9e56bb0e4ddd888932dfe59f002
+      internalID: -941505136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_152
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53985ff056fd6428c87100fa83cc64d2
+      internalID: 1756345104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_153
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 48
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552ecc08528674804bb0a03c364d78ac
+      internalID: 1351685875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_157
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 1.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d1df3b435a458a907158b39adcb3a
+      internalID: -25403194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_158
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bf01bb0dc6846de9943e51ebf1109d
+      internalID: 1669973957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_168
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366ca39379464493ca09ecf9a6649e67
+      internalID: -1163057882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_170
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fde9cac2e8b544f784f230bd482fc36
+      internalID: 407438498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors_173
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39b59f6f6f4d42fd903bc4378c99b37
+      internalID: -1833117446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors obj_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ed09b4ea25f4bb98fb9bbd19dc3baf
+      internalID: -818770147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors obj_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ccfefb483dc4be798d616666290261
+      internalID: -1542370938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors obj_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 2
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa5282a82cb14467938d1bc735098e4
+      internalID: 545932506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors obj_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 43
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405e3c5c8a02241ee857fa5af01c99d6
+      internalID: -1135428107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indoors obj_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec00d72b6a4a8463186dadd0c22014d8
+      internalID: 1216653169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      indoors_69: 1145587255
+      indoors_121: -1119490986
+      indoors_39: -1192224715
+      indoors_66: -629368770
+      indoors_176: -663141416
+      indoors_16: 1039394207
+      indoors_143: -1026678821
+      indoors obj_4: 1216653169
+      indoors_62: -1500302195
+      indoors_89: -1865202632
+      indoors_124: -1441957650
+      indoors_160: -1324245152
+      indoors_8: -1350366524
+      indoors_147: 22623177
+      indoors_136: 686482185
+      indoors_86: -636518901
+      indoors_91: 845424698
+      indoors_56: -311739427
+      indoors_14: 624084722
+      indoors_90: -1076774980
+      indoors_172: -298582306
+      indoors_3: 2042406779
+      indoors_30: 1963271920
+      indoors_22: -1026622252
+      indoors_58: -566574068
+      indoors_140: 958981873
+      indoors_149: -846821118
+      indoors_161: -276378350
+      indoors_102: -178235364
+      indoors_5: 1024275601
+      indoors_173: -1833117446
+      indoors_31: 1010062135
+      indoors_33: 286259790
+      indoors_164: -127072301
+      indoors_120: -1902066271
+      indoors_35: -1662985900
+      indoors_71: -2117715669
+      indoors_132: 221892993
+      indoors_17: 1965988815
+      indoors_32: 905072123
+      indoors_80: -2102357739
+      indoors_144: 799366135
+      indoors_41: -478448401
+      indoors_98: 841920383
+      indoors_129: -1676454580
+      indoors_6: -1885096561
+      indoors_123: -94545313
+      indoors_131: -1519006574
+      indoors_158: 1669973957
+      indoors_49: 1884267240
+      indoors_145: -1792591182
+      indoors_106: 952532660
+      indoors_72: 1913659781
+      indoors_13: 296476804
+      indoors_117: 366010686
+      indoors_38: 1350831710
+      indoors_87: 2074991209
+      indoors_135: 375003798
+      indoors_55: 579548398
+      indoors_70: -512425120
+      indoors_93: -1304379050
+      indoors_148: -1344165217
+      indoors obj_2: 545932506
+      indoors_152: 1756345104
+      indoors_47: -1181382275
+      indoors_134: -676331633
+      indoors_42: 271588770
+      indoors_78: -1654844127
+      indoors_162: -455612285
+      indoors_157: -25403194
+      indoors_112: -1131831720
+      indoors_20: -1506287149
+      indoors_122: 2131191868
+      indoors_114: -1239953143
+      indoors obj_0: -818770147
+      indoors_26: 1046430695
+      indoors_166: 1863928113
+      indoors_165: 2010858981
+      indoors_23: 815178200
+      indoors_138: -34248035
+      indoors_88: 1749753581
+      indoors_74: -1055133756
+      indoors_154: 2042745245
+      indoors_27: -1390205850
+      indoors_73: -785953427
+      indoors_59: -1314840012
+      indoors_83: 31247919
+      indoors_118: 1282032747
+      indoors_115: 69846682
+      indoors_50: -1428000989
+      indoors_2: 1850376103
+      indoors_37: 2072971024
+      indoors_95: 1657498228
+      indoors_133: -1494760455
+      indoors_28: 666079032
+      indoors_94: 154188815
+      indoors obj_3: -1135428107
+      indoors_85: 319895699
+      indoors_52: 1851408522
+      indoors_116: -895712370
+      indoors_111: -132066933
+      indoors_128: -239698186
+      indoors_36: -1014381142
+      indoors_137: -1633180361
+      indoors_168: -1163057882
+      indoors_119: 188231336
+      indoors_159: 1993345800
+      indoors_43: -215712808
+      indoors_65: 1215765265
+      indoors_44: -515513499
+      indoors_40: -508055135
+      indoors_108: 2143694744
+      indoors_170: 407438498
+      indoors_64: -657940930
+      indoors_79: 1366324281
+      indoors_0: -957430531
+      indoors_169: 1078525361
+      indoors_126: -1573435701
+      indoors_153: 1351685875
+      indoors_25: -205234295
+      indoors_21: -894919896
+      indoors_150: 1469675417
+      indoors_97: 528244506
+      indoors_100: 462465825
+      indoors_54: 1489816034
+      indoors_10: 1725745053
+      indoors_151: -941505136
+      indoors_12: -1044676086
+      indoors_4: -1678230023
+      indoors_130: -126085368
+      indoors_19: 1080089235
+      indoors_9: 18004419
+      indoors_175: 672556286
+      indoors_7: 253753215
+      indoors_53: 1730599516
+      indoors_61: 559173077
+      indoors_156: -2028135207
+      indoors_15: 1229599712
+      indoors_107: -454136746
+      indoors_24: 276783253
+      indoors_141: -751319282
+      indoors_11: -1278091154
+      indoors_81: 571082418
+      indoors_174: 926696750
+      indoors_45: -1073325851
+      indoors_57: -1827190135
+      indoors_82: 1856454716
+      indoors_163: 951305752
+      indoors_103: 1506017242
+      indoors_77: 1046455691
+      indoors_171: -1975963326
+      indoors_109: -693595997
+      indoors obj_1: -1542370938
+      indoors_104: -1717206722
+      indoors_105: 1022687999
+      indoors_92: -1709462747
+      indoors_84: 31408900
+      indoors_67: -1481868440
+      indoors_60: 2093791489
+      indoors_146: 1419259192
+      indoors_113: -1960090992
+      indoors_48: 1492457263
+      indoors_75: -811633517
+      indoors_46: 845497337
+      indoors_63: 2137940827
+      indoors_51: -1175587949
+      indoors_110: -2125119225
+      indoors_76: 1847976174
+      indoors_68: -1918489925
+      indoors_125: 1856970678
+      indoors_139: -571939481
+      indoors_34: 1771448506
+      indoors_29: 1381347780
+      indoors_155: -1682555447
+      indoors_167: -1002476851
+      indoors_99: -695593824
+      indoors_101: 1056001724
+      indoors_127: -14943754
+      indoors_18: 748557364
+      indoors_142: 44359193
+      indoors_1: 1209727301
+      indoors_96: -693493724
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
