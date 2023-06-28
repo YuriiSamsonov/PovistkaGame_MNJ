@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace _Game.Scripts.PovistkaGame
 {
-    public class Core : MonoBehaviour  //     how to use text formatting tools
+    public class Core : MonoBehaviour
     {
         #region SceneReferences
 
@@ -43,8 +43,7 @@ namespace _Game.Scripts.PovistkaGame
     private Player _player;
     private MyInputHandler _handleInput;
     private EnemyManager _enemyManager;
-    private InteractionEventArgs _interactionEventArgs; // райдер пишет что он не используется.
-                                                        // Но я его просто инициализирую
+    private InteractionEventArgs _interactionEventArgs;
 
     #endregion
 
